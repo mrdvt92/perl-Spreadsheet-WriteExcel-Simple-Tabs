@@ -1,0 +1,8 @@
+MANIFEST
+README.md
+LICENSE
+Changes
+Makefile.PL
+lib/Spreadsheet/WriteExcel/Simple/Tabs.pm
+t/001_load.t
+perl-Spreadsheet-WriteExcel-Simple-Tabs.spec
